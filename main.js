@@ -2,4 +2,4 @@ console.log("hello")
 
 
 
-console.log("hello from the other side ");
+console.log("ekher mara hedhi  ");
